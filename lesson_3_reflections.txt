@@ -11,3 +11,6 @@ Branches are series of commits with a father child relation.
 
 Forks are used when wanting to clone a branch from another user and use modify it in your own space.
 Clone is used when wanting to duplicate one of your own branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It allows you to work with the remote storage even if you don't have online connection to it, compare differences, etc.
