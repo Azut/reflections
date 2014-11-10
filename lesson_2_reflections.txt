@@ -3,3 +3,18 @@ Basically a new repository (empty) is created. It's necessary to start working w
 
 How is the staging area different form the working directory and the repository? What value do you think it offers?
 The staging area is sort of a temporary work zone that alloes you to encase a number of actions you wish to include in the same commit. Helps you properly configure your future commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area allows you to make all changes necessary for a single commit, but also you go through them before adding deffinitively to the commit. It's really a efficient working area.
+
+What are some situations when branches would be helpful in keeping your history oganized? How would branches help?
+When testing new experimental features, planing different laternative options, etc.
+
+How do the diagrams help you visualize the branch structure?
+In a strucutre that can have several "paths" the only way to clearly visualize it's structure is through a diagram.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines the changes from both branches and lists the commits on a same list.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually.
+Manual mergin, although it is probably more "precise" would be very time consuming. Git's merging will do the job for you when no conflicts appear and will let you know where a confict is, saving you the requiered time.
