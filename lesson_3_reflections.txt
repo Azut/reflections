@@ -17,3 +17,6 @@ It allows you to work with the remote storage even if you don't have online conn
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would basically require to send the file/code, have it revised, and receive back the comments over it (or even the fixed code). It's way more cumbersome and gets easily messy on more complex projects.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When doing changes in a branch you are able to consult your colleagues before actually merging your changes to the main branch. When working in team it seems to be logical to work in this way.
