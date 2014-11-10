@@ -3,3 +3,11 @@ When working between different computers, or when more than one person is workin
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Mainly because you probably don't want to "share" an incomplete project or share while testing a new feature or while fixing a bug. Manually pushing your changes also offers you full control of what to make public (and at what stage).
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are basically a copy of an entire branch from another user in GitHub.
+Clones is basically a local copy of a local or online branch (GitHub), in both cases from your own repositories.
+Branches are series of commits with a father child relation.
+
+Forks are used when wanting to clone a branch from another user and use modify it in your own space.
+Clone is used when wanting to duplicate one of your own branches.
