@@ -14,3 +14,6 @@ Clone is used when wanting to duplicate one of your own branches.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It allows you to work with the remote storage even if you don't have online connection to it, compare differences, etc.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would basically require to send the file/code, have it revised, and receive back the comments over it (or even the fixed code). It's way more cumbersome and gets easily messy on more complex projects.
